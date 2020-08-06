@@ -22,14 +22,13 @@
 <br />
 
 ### Languages
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" />]
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" />]
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" />]
 [<img align="left" alt="Vb.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vb.net/vb.net.png" />]
 [<img align="left" alt="XML" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/xml/xml.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="JSon" width="26px"src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/json/json.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 
 ### Tools:
