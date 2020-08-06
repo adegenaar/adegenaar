@@ -68,4 +68,4 @@
 
 
 [youtube]: https://youtube.com/adegenaar
-[linkedin]: www.linkedin.com/in/AlbertDegenaar
+[linkedin]: https://www.linkedin.com/in/AlbertDegenaar
