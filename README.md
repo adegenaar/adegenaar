@@ -32,6 +32,7 @@
 <img align="left" alt="XML" width="26px" src="https://img.favpng.com/20/17/20/text-brand-logo-png-favpng-huSzx58izqRTwKqe4X1BDMi8D.jpg" />
 <img align="left" alt="JSon" width="26px"src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/json/json.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" src="https://img.favpng.com/5/15/13/powershell-scripting-language-active-directory-sharepoint-user-png-favpng-1yX12tqKGkvQYGsGVGCv0c8j9.jpg" />
 
 <br />
 
