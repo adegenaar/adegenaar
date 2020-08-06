@@ -1,6 +1,6 @@
 <!--
 **adegenaar/adegenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 ### Hi there, I'm Al 👋
 
 ## I'm a Husband, Developer, and LARPer!
@@ -11,12 +11,16 @@
   - PCB Design
   - Consuming random API's (Discord, Twitch, Youtube, etc.) on the web in as many languages as possible...
   - Fusion 360 to feed my 3D Printing habit and building cases for my electronic creations 
+  - Writing bots for Twitch & Discord
+  - Automating YouTube and Spotify
+- 🌱 I’m want to learn:
+  - Alexa skills and IOT integration
+  - More about AWS
+  - More about Mulesoft and API design
 - 👯 I’m looking to collaborate on interfacing hardware to the web (IOT) ...
 - 🥅 2020 Goals: To make it to 2021 while contributing more to Open Source projects
 - 😄 Pronouns: Don't care, just don't be rude
 - ⚡ Fun fact: My beard is currently blue...
--->
-
 
 
 <br />
