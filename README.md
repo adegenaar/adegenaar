@@ -73,11 +73,12 @@
 
 ---
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats_
-<br>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adegenaar)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=adegenaar)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br />
 
 [youtube]: https://youtube.com/adegenaar
 [linkedin]: https://www.linkedin.com/in/AlbertDegenaar
