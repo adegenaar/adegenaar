@@ -4,7 +4,7 @@
 ### Hi there, I'm Al 👋
 
 ## I'm a Husband, Developer, and LARPer!
-- 🔭 I’m currently working on designing an API for MuleSoft for work and Building an IOT Weather Dislay at home...
+- 🔭 I’m currently working on an automated display for a BLE DMM
 - 🌱 I’m currently learning:
   - CI/CD - Github Actions, Docker 
   - Python, Micro-Python and Circuit-Python
@@ -13,12 +13,12 @@
   - Fusion 360 to feed my 3D Printing habit and building cases for my electronic creations 
   - Writing bots for Twitch & Discord
   - Automating YouTube and Spotify
-- 🌱 I’m want to learn:
+- 🌱 I’m wanting to learn:
   - Alexa skills and IOT integration
   - More about AWS
   - More about Mulesoft and API design
 - 👯 I’m looking to collaborate on interfacing hardware to the web (IOT) ...
-- 🥅 2020 Goals: To make it to 2021 while contributing more to Open Source projects
+- 🥅 2022 Goals: To make it to 2023 while contributing more to Open Source projects
 - 😄 Pronouns: Don't care, just don't be rude
 - ⚡ Fun fact: My beard is currently blue...
 
