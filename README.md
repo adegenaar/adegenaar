@@ -18,7 +18,7 @@
   - More about AWS
   - More about Mulesoft and API design
 - 👯 I’m looking to collaborate on interfacing hardware to the web (IOT) ...
-- 🥅 2022 Goals: To make it to 2023 while contributing more to Open Source projects
+- 🥅 2023 Goals: To make it to 2024 while contributing more to Open Source projects
 - 😄 Pronouns: Don't care, just don't be rude
 - ⚡ Fun fact: My beard is currently blue...
 
